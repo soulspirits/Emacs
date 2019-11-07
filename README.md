@@ -1,2 +1,2 @@
 # Emacs
-My Emacs Configurations
+My Emacs Configurations for linux
